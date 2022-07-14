@@ -1,0 +1,565 @@
+{
+	"SDC": [
+		{
+			"standName": "Star Platinum",
+			"standUser": "Jotaro Kujo",
+			"standImg": "https://static.jojowiki.com/images/thumb/c/ca/latest/20200927002609/Star_Platinum_SC_Infobox_Anime.png/500px-Star_Platinum_SC_Infobox_Anime.png"
+		},
+		{
+			"standName": "Magician's Red",
+			"standUser": "Muhammad Avdol",
+			"standImg": "https://static.jojowiki.com/images/4/48/latest/20210725104521/Magician%27s_Red_Infobox_Anime.png"
+		},
+		{
+			"standName": "Hermit Purple",
+			"standUser": "Joseph Joestar",
+			"standImg": "https://static.jojowiki.com/images/c/c1/latest/20191015212906/Hermit_Purple_SC_Infobox_Manga.png"
+		},
+		{
+			"standName": "Hierophant Green",
+			"standUser": "Noriaki Kakyoin",
+			"standImg": "https://static.jojowiki.com/images/3/3e/latest/20210616200106/Hierophant_Green_Infobox_Anime.png"
+		},
+		{
+			"standName": "Silver Chariot",
+			"standUser": "Jean Pierre Polnareff",
+			"standImg": "https://static.jojowiki.com/images/0/09/latest/20210708051149/Silver_Chariot_SC_Infobox_Anime.png"
+		},
+		{
+			"standName": "The Fool",
+			"standUser": "Iggy",
+			"standImg": "https://static.jojowiki.com/images/thumb/f/f0/latest/20191015214051/The_Fool_Infobox_Manga.png/500px-The_Fool_Infobox_Manga.png"
+		},
+		{
+			"standName": "The World",
+			"standUser": "DIO Brando",
+			"standImg": "https://static.jojowiki.com/images/thumb/f/f5/latest/20210424162912/The_World_Infobox_Manga.png/500px-The_World_Infobox_Manga.png"
+		},
+		{
+			"standName": "Tower of Gray",
+			"standUser": "Gray Fly",
+			"standImg": "https://static.jojowiki.com/images/thumb/c/c2/latest/20191015212839/Tower_of_Gray_Infobox_Anime.png/500px-Tower_of_Gray_Infobox_Anime.png"
+		},
+		{
+			"standName": "Dark Blue Moon",
+			"standUser": "Impostor Captain Tennille",
+			"standImg": "https://static.jojowiki.com/images/5/56/latest/20191015215028/Dark_Blue_Moon_Infobox_Anime.png"
+		},
+		{
+			"standName": "Strength",
+			"standUser": "Forever",
+			"standImg": "https://static.jojowiki.com/images/thumb/9/98/latest/20191015214246/Strength_Infobox_Manga.png/500px-Strength_Infobox_Manga.png"
+		},
+		{
+			"standName": "Ebony Devil",
+			"standUser": "Devo The Cursed",
+			"standImg": "https://static.jojowiki.com/images/7/77/latest/20201025080253/Ebony_Devil_Infobox_Anime.png"
+		},
+		{
+			"standName": "Yellow Temperance",
+			"standUser": "Rubber Soul",
+			"standImg": "https://static.jojowiki.com/images/thumb/3/38/latest/20191015213708/Yellow_Temperance_Infobox_Anime.png/500px-Yellow_Temperance_Infobox_Anime.png"
+		},
+		{
+			"standName": "Hanged Man",
+			"standUser": "J. Geil",
+			"standImg": "https://static.jojowiki.com/images/1/1f/latest/20191015214036/Hanged_Man_Infobox_Anime.png"
+		},
+		{
+			"standName": "Emperor",
+			"standUser": "Hol Horse",
+			"standImg": "https://static.jojowiki.com/images/c/cf/latest/20191015213202/Emperor_Infobox_Manga.png"
+		},
+		{
+			"standName": "Empress",
+			"standUser": "Nena",
+			"standImg": "https://static.jojowiki.com/images/c/c9/latest/20210324235238/Empress_Infobox_Anime.png"
+		},
+		{
+			"standName": "Wheel of Fortune",
+			"standUser": "ZZ",
+			"standImg": "https://static.jojowiki.com/images/thumb/b/b7/latest/20191015215847/Wheel_of_Fortune_Infobox_Anime.png/500px-Wheel_of_Fortune_Infobox_Anime.png"
+		},
+		{
+			"standName": "Justice",
+			"standUser": "Enya the Hag",
+			"standImg": "https://static.jojowiki.com/images/f/f8/latest/20191015215013/Justice_Infobox_Manga.png"
+		},
+		{
+			"standName": "Lovers",
+			"standUser": "Steely Dan",
+			"standImg": "https://static.jojowiki.com/images/4/4a/latest/20191015215255/Lovers_Infobox_Anime.png"
+		},
+		{
+			"standName": "Sun",
+			"standUser": "Arabia Fats",
+			"standImg": "https://static.jojowiki.com/images/f/fd/latest/20191015215104/Sun_Infobox_Anime.png"
+		},
+		{
+			"standName": "Death 13",
+			"standUser": "Mannish Boy",
+			"standImg": "https://static.jojowiki.com/images/b/be/latest/20191015220115/Death_Thirteen_Infobox_Anime.png"
+		},
+		{
+			"standName": "Judgement",
+			"standUser": "Cameo",
+			"standImg": "https://static.jojowiki.com/images/a/af/latest/20191015214313/Judgement_Infobox_Anime.png"
+		},
+		{
+			"standName": "High Priestess",
+			"standUser": "Midler",
+			"standImg": "https://static.jojowiki.com/images/1/1f/latest/20191015213729/High_Priestess_Infobox_Anime.png"
+		},
+		{
+			"standName": "Geb",
+			"standUser": "N'Doul",
+			"standImg": "https://static.jojowiki.com/images/2/26/latest/20191015212741/Geb_Infobox_Anime.png"
+		},
+		{
+			"standName": "Khnum",
+			"standUser": "Oingo",
+			"standImg": "https://static.jojowiki.com/images/1/1c/latest/20191015214835/Khnum_Infobox_Anime.png"
+		},
+		{
+			"standName": "Tohth",
+			"standUser": "Boingo",
+			"standImg": "https://static.jojowiki.com/images/thumb/0/09/latest/20191015212816/Tohth_Infobox_Anime.png/500px-Tohth_Infobox_Anime.png"
+		},
+		{
+			"standName": "Anubis",
+			"standUser": "Caravan Serai/Chaka/Khan",
+			"standImg": "https://static.jojowiki.com/images/6/64/latest/20210313120826/Anubis_Infobox_Anime.png"
+		},
+		{
+			"standName": "Bastet",
+			"standUser": "Mariah",
+			"standImg": "https://static.jojowiki.com/images/f/f6/latest/20191015215447/Bastet_Infobox_Manga.png"
+		},
+		{
+			"standName": "Sethan",
+			"standUser": "Alessi",
+			"standImg": "https://static.jojowiki.com/images/4/44/latest/20191015220111/Sethan_Infobox_Anime.png"
+		},
+		{
+			"standName": "Osiris",
+			"standUser": "Daniel J. D'Arby",
+			"standImg": "https://static.jojowiki.com/images/a/ae/latest/20191015214651/Osiris_Infobox_Anime.png"
+		},
+		{
+			"standName": "Horus",
+			"standUser": "Pet Shop",
+			"standImg": "https://static.jojowiki.com/images/5/59/latest/20191015214708/Horus_Infobox_Manga.png"
+		},
+		{
+			"standName": "Atum",
+			"standUser": "Telence T. D'Arby",
+			"standImg": "https://static.jojowiki.com/images/5/50/latest/20191015215748/Atum_Infobox_Anime.png"
+		},
+		{
+			"standName": "Cream",
+			"standUser": "Vanilla Ice",
+			"standImg": "https://static.jojowiki.com/images/7/7f/latest/20191015213754/Cream_Infobox_Anime.png"
+		}
+	],
+    "DIU": [
+		{
+			"standName": "Crazy Diamond",
+			"standUser": "Josuke Higashikata",
+			"standImg": "https://static.jojowiki.com/images/b/b5/latest/20191015215419/Crazy_Diamond_Infobox_Anime.png"
+		},
+		{
+			"standName": "The Hand",
+			"standUser": "Okuyasu Nijimura",
+			"standImg": "https://static.jojowiki.com/images/thumb/a/ae/latest/20210111150120/The_Hand_Infobox_Anime.png/400px-The_Hand_Infobox_Anime.png"
+		},
+		{
+			"standName": "Echoes Act 1",
+			"standUser": "Koichi Hirose",
+			"standImg": "https://static.jojowiki.com/images/d/dc/latest/20210424210829/Echoes_ACT1_DU_Infobox_Anime.png"
+		},
+		{
+			"standName": "Echoes Act 2",
+			"standUser": "Koichi Hirose",
+			"standImg": "https://static.jojowiki.com/images/1/11/latest/20191015214306/Echoes_ACT2_DU_Infobox_Manga.png"
+		},
+		{
+			"standName": "Echoes Act 3",
+			"standUser": "Koichi Hirose",
+			"standImg": "https://static.jojowiki.com/images/4/4e/latest/20191015214620/Echoes_ACT3_DU_Infobox_Manga.png"
+		},
+		{
+			"standName": "Heaven's Door",
+			"standUser": "Rohan Kishibe",
+			"standImg": "https://static.jojowiki.com/images/5/50/latest/20210203193008/Heaven%27s_Door_Infobox_Anime.png"
+		},
+		{
+			"standName": "Killer Queen",
+			"standUser": "Yoshikage Kira",
+			"standImg": "https://static.jojowiki.com/images/1/14/latest/20210422175323/Killer_Queen_Infobox_Anime.png"
+		},
+		{
+			"standName": "Sheer Heart Attack",
+			"standUser": "Yoshikage Kira",
+			"standImg": "https://static.jojowiki.com/images/thumb/b/ba/latest/20191015214153/Sheer_Heart_Attack_Infobox_Anime.png/400px-Sheer_Heart_Attack_Infobox_Anime.png"
+		},
+		{
+			"standName": "Bites The Dust",
+			"standUser": "Yoshikage Kira",
+			"standImg": "https://static.jojowiki.com/images/thumb/c/cb/latest/20191015213012/Bites_the_Dust_Infobox_Anime.png/400px-Bites_the_Dust_Infobox_Anime.png"
+		},
+		{
+			"standName": "Aqua Necklace",
+			"standUser": "Anjuro Katagiri",
+			"standImg": "https://static.jojowiki.com/images/7/74/latest/20191015215728/Aqua_Necklace_Infobox_Manga.png"
+		},
+		{
+			"standName": "Bad Company",
+			"standUser": "Keicho Nijimura",
+			"standImg": "https://static.jojowiki.com/images/4/4a/latest/20191015213325/Bad_Company_Infobox_Anime.png"
+		},
+		{
+			"standName": "Red Hot Chilli Pepper",
+			"standUser": "Akira Otoishi",
+			"standImg": "https://static.jojowiki.com/images/5/59/latest/20191015213016/RHCP_Infobox_Anime.png"
+		},
+		{
+			"standName": "The Lock",
+			"standUser": "Tamami Kobayashi",
+			"standImg": "https://static.jojowiki.com/images/thumb/5/5d/latest/20191015215219/The_Lock_Infobox_Anime.png/400px-The_Lock_Infobox_Anime.png"
+		},
+		{
+			"standName": "Surface",
+			"standUser": "Toshikazu Hazamada",
+			"standImg": "https://static.jojowiki.com/images/0/03/latest/20210601092929/Surface_Infobox_Anime.png"
+		},
+		{
+			"standName": "Love Deluxe",
+			"standUser": "Yukako Yamagishi",
+			"standImg": "https://static.jojowiki.com/images/d/d3/latest/20210222045719/Love_Deluxe_Infobox_Anime.png"
+		},
+		{
+			"standName": "Pearl Jam",
+			"standUser": "Tonio Trussardi",
+			"standImg": "https://static.jojowiki.com/images/7/70/latest/20191015212728/Pearl_Jam_Infobox_Anime.png"
+		},
+		{
+			"standName": "Achtung Baby",
+			"standUser": "Shizuka Joestar",
+			"standImg": "https://static.jojowiki.com/images/c/cf/latest/20191015213252/Shizuka_Infobox_Manga.png"
+		},
+		{
+			"standName": "Ratt",
+			"standUser": "Bug Eaten/Not Bug Eaten",
+			"standImg": "https://static.jojowiki.com/images/f/fe/latest/20191015215448/Ratt_Infobox_Manga.png"
+		},
+		{
+			"standName": "Harvest",
+			"standUser": "Shigekiyo Yangu",
+			"standImg": "https://static.jojowiki.com/images/7/73/latest/20191015213856/Harvest_Infobox_Anime.png"
+		},
+		{
+			"standName": "Cinderella",
+			"standUser": "Aya Tsuji",
+			"standImg": "https://static.jojowiki.com/images/3/38/latest/20191015215723/Cinderella_Infobox_Anime.png"
+		},
+		{
+			"standName": "Atom Heart Father",
+			"standUser": "Yoshihiro Kira",
+			"standImg": "https://static.jojowiki.com/images/0/00/latest/20210713142149/Atom_Heart_Father_Infobox_Anime.png"
+		},
+		{
+			"standName": "Boy II Man",
+			"standUser": "Ken Oyanagi",
+			"standImg": "https://static.jojowiki.com/images/b/b9/latest/20191015220101/Boy_II_Man_Infobox_Anime.png"
+		},
+		{
+			"standName": "Earth Wind Fire",
+			"standUser": "Mikitaka Hazekura",
+			"standImg": "https://static.jojowiki.com/images/f/f5/latest/20191015214646/EWF_Infobox_Manga.png"
+		},
+		{
+			"standName": "Highway Star",
+			"standUser": "Yuya Fungami",
+			"standImg": "https://static.jojowiki.com/images/0/0d/latest/20210513135001/Highway_Star_Infobox_Manga.png"
+		},
+		{
+			"standName": "Stray Cat",
+			"standUser": "Tama",
+			"standImg": "https://static.jojowiki.com/images/thumb/7/7d/latest/20191015215812/Stray_Cat_Original_Infobox_Anime.png/400px-Stray_Cat_Original_Infobox_Anime.png"
+		},
+		{
+			"standName": "Super Fly",
+			"standUser": "Toyohiro Kanedaichi",
+			"standImg": "https://static.jojowiki.com/images/4/45/latest/20191015215742/Super_Fly_Infobox_Anime.png"
+		},
+		{
+			"standName": "Enigma",
+			"standUser": "Terunosuke Miyamoto",
+			"standImg": "https://static.jojowiki.com/images/5/51/latest/20200321224524/Enigma_Infobox_Anime.png"
+		},
+		{
+			"standName": "Cheap Trick",
+			"standUser": "Masazo Kinoto",
+			"standImg": "https://static.jojowiki.com/images/8/8e/latest/20191015214358/Cheap_Trick_Infobox_Anime.png"
+		}
+	],
+    "GW": [
+        {
+            "standName": "Gold Experience",
+            "standUser": "Giorno Giovanna",
+            "standImg": "https://static.jojowiki.com/images/8/81/latest/20210707053105/Gold_Experience_Infobox_Anime.png"
+        },
+        {
+            "standName": "Sticky Fingers",
+            "standUser": "Bruno Bucciarati",
+            "standImg": "https://static.jojowiki.com/images/7/78/latest/20210707052417/Sticky_Fingers_Infobox_Anime.png"
+        },
+        {
+            "standName": "Moody Blues",
+            "standUser": "Leone Abbacchio",
+            "standImg": "https://static.jojowiki.com/images/9/91/latest/20210707051825/Moody_Blues_Infobox_Anime.png"
+        },
+        {
+            "standName": "Sex Pistols",
+            "standUser": "Guido Mista",
+            "standImg": "https://static.jojowiki.com/images/thumb/b/b9/latest/20210521114106/Sex_Pistols_Infobox_Anime.png/400px-Sex_Pistols_Infobox_Anime.png"
+        },
+        {
+            "standName": "Aerosmith",
+            "standUser": "Narancia Ghirga",
+            "standImg": "https://static.jojowiki.com/images/thumb/7/7c/latest/20210701024635/Aerosmith_Infobox_Anime.png/400px-Aerosmith_Infobox_Anime.png"
+        },
+        {
+            "standName": "Purple Haze",
+            "standUser": "Pannacotta Fugo",
+            "standImg": "https://static.jojowiki.com/images/thumb/c/ca/latest/20191015214140/Purple_Haze_Infobox_Anime.png/400px-Purple_Haze_Infobox_Anime.png"
+        },
+        {
+            "standName": "Spice Girl",
+            "standUser": "Trish Una",
+            "standImg": "https://static.jojowiki.com/images/2/21/latest/20200118002424/Spice_Girl_Infobox_Anime.png"
+        },
+        {
+            "standName": "Mr. President",
+            "standUser": "Coco Jumbo",
+            "standImg": "https://static.jojowiki.com/images/thumb/d/da/latest/20191015213903/Mr.President_Infobox_Anime.png/400px-Mr.President_Infobox_Anime.png"
+        },
+        {
+            "standName": "Chariot Requiem",
+            "standUser": "Jean Pierre Polnareff",
+            "standImg": "https://static.jojowiki.com/images/1/12/latest/20210708055231/Chariot_Requiem_Infobox_Anime.png"
+        },
+        {
+            "standName": "Gold Experience Requiem",
+            "standUser": "Giorno Giovanna",
+            "standImg": "https://static.jojowiki.com/images/thumb/1/13/latest/20210525092302/GER_Infobox_Manga.png/400px-GER_Infobox_Manga.png"
+        },
+        {
+            "standName": "King Crimson",
+            "standUser": "Diavolo/Vinegar Doppio",
+            "standImg": "https://static.jojowiki.com/images/thumb/c/c6/latest/20191015213856/King_Crimson_Infobox_Anime.png/400px-King_Crimson_Infobox_Anime.png"
+        },
+        {
+            "standName": "Black Sabbath",
+            "standUser": "Polpo",
+            "standImg": "https://static.jojowiki.com/images/1/17/latest/20191015215515/Black_Sabbath_Infobox_Anime.png"
+        },
+        {
+            "standName": "Soft Machine",
+            "standUser": "Mario Zucchero",
+            "standImg": "https://static.jojowiki.com/images/thumb/6/69/latest/20191015214657/Soft_Machine_Infobox_Anime.png/400px-Soft_Machine_Infobox_Anime.png"
+        },
+        {
+            "standName": "Kraft Work",
+            "standUser": "Sale",
+            "standImg": "https://static.jojowiki.com/images/thumb/4/49/latest/20191015220058/Kraft_Work_Infobox_Anime.png/400px-Kraft_Work_Infobox_Anime.png"
+        },
+        {
+            "standName": "Little Feet",
+            "standUser": "Formaggio",
+            "standImg": "https://static.jojowiki.com/images/thumb/5/56/latest/20210707063458/Little_Feet_Infobox_Anime.png/400px-Little_Feet_Infobox_Anime.png"
+        },
+        {
+            "standName": "Man in the Mirror",
+            "standUser": "Illuso",
+            "standImg": "https://static.jojowiki.com/images/0/0c/latest/20191015215019/Man_in_the_Mirror_Infobox_Manga.png"
+        },
+        {
+            "standName": "Beach Boy",
+            "standUser": "Pesci",
+            "standImg": "https://static.jojowiki.com/images/thumb/8/8f/latest/20191127095125/Beach_Boy_Infobox_Manga.png/400px-Beach_Boy_Infobox_Manga.png"
+        },
+        {
+            "standName": "The Grateful Dead",
+            "standUser": "Prosciutto",
+            "standImg": "https://static.jojowiki.com/images/thumb/2/29/latest/20191015215829/The_Grateful_Dead_Infobox_Anime.png/400px-The_Grateful_Dead_Infobox_Anime.png"
+        },
+        {
+            "standName": "Baby Face",
+            "standUser": "Melone",
+            "standImg": "https://static.jojowiki.com/images/thumb/3/38/latest/20191015214332/Baby_Face_Junior_Infobox_Manga.png/400px-Baby_Face_Junior_Infobox_Manga.png"
+        },
+        {
+            "standName": "White Album",
+            "standUser": "Ghiaccio",
+            "standImg": "https://static.jojowiki.com/images/thumb/a/a9/latest/20191015215835/White_Album_Infobox_Anime.png/400px-White_Album_Infobox_Anime.png"
+        },
+        {
+            "standName": "Clash",
+            "standUser": "Squalo",
+            "standImg": "https://static.jojowiki.com/images/thumb/6/66/latest/20210208190621/Clash_Infobox_Anime.png/400px-Clash_Infobox_Anime.png"
+        },
+        {
+            "standName": "Talking Head",
+            "standUser": "Tiziano",
+            "standImg": "https://static.jojowiki.com/images/thumb/6/68/latest/20210719190437/Talking_Head_Infobox_Anime.png/400px-Talking_Head_Infobox_Anime.png"
+        },
+        {
+            "standName": "Notorious B.I.G",
+            "standUser": "Carne",
+            "standImg": "https://static.jojowiki.com/images/5/5e/latest/20191015214751/Notorious_B.I.G_Normal_Infobox_Manga.png"
+        },
+        {
+            "standName": "Metallica",
+            "standUser": "Risotto Nero",
+            "standImg": "https://static.jojowiki.com/images/thumb/4/46/latest/20191015212955/Metallica_Infobox_Manga.png/400px-Metallica_Infobox_Manga.png"
+        },
+        {
+            "standName": "Green Day",
+            "standUser": "Cioccolata",
+            "standImg": "https://static.jojowiki.com/images/a/a4/latest/20210707061339/Green_Day_Infobox_Anime.png"
+        },
+        {
+            "standName": "Oasis",
+            "standUser": "Secco",
+            "standImg": "https://static.jojowiki.com/images/thumb/0/06/latest/20191015212931/Oasis_Infobox_Anime.png/400px-Oasis_Infobox_Anime.png"
+        },
+        {
+            "standName": "Rolling Stones",
+            "standUser": "Scolippi",
+            "standImg": "https://static.jojowiki.com/images/thumb/c/c5/latest/20191015214244/Rolling_Stones_Infobox_Anime.png/400px-Rolling_Stones_Infobox_Anime.png"
+        }
+    ],
+    "SO": [
+        {
+            "standName": "Stone Free",
+            "standUser": "Jolyne Cujoh",
+            "standImg": "https://static.jojowiki.com/images/thumb/2/24/latest/20210917141524/Stone_Free_Infobox_Manga.png/400px-Stone_Free_Infobox_Manga.png"
+        },
+        {
+            "standName": "Kiss",
+            "standUser": "Ermes Costello",
+            "standImg": "https://static.jojowiki.com/images/thumb/7/77/latest/20210829145227/Kiss_Infobox_Manga.png/400px-Kiss_Infobox_Manga.png"
+        },
+        {
+            "standName": "Burning Down The House",
+            "standUser": "Emporio Alnino",
+            "standImg": "https://static.jojowiki.com/images/thumb/0/00/latest/20191015215502/BDtH_Infobox_Manga.png/400px-BDtH_Infobox_Manga.png"
+        },
+        {
+            "standName": "Foo Fighters",
+            "standUser": "Foo Fighters",
+            "standImg": "https://static.jojowiki.com/images/thumb/0/07/latest/20210313143756/Foo_Fighters_Stand_Infobox_Manga.png/400px-Foo_Fighters_Stand_Infobox_Manga.png"
+        },
+        {
+            "standName": "Weather Report",
+            "standUser": "Weather Report",
+            "standImg": "https://static.jojowiki.com/images/thumb/8/8a/latest/20211109144423/Weather_Report_Stand_Infobox_Manga.png/400px-Weather_Report_Stand_Infobox_Manga.png"
+        },
+        {
+            "standName": "Diver Down",
+            "standUser": "Narciso Anasui",
+            "standImg": "https://static.jojowiki.com/images/thumb/9/98/latest/20211112115109/Diver_Down_Infobox_Manga.png/400px-Diver_Down_Infobox_Manga.png"
+        },
+        {
+            "standName": "Whitesnake",
+            "standUser": "Enrico Pucci",
+            "standImg": "https://static.jojowiki.com/images/thumb/9/91/latest/20211201173458/Whitesnake_Infobox_Anime.png/400px-Whitesnake_Infobox_Anime.png"
+        },
+        {
+            "standName": "C-Moon",
+            "standUser": "Enrico Pucci",
+            "standImg": "https://static.jojowiki.com/images/thumb/3/34/latest/20210408000112/C-Moon_Infobox_Manga.png/400px-C-Moon_Infobox_Manga.png"
+        },
+        {
+            "standName": "Made in Heaven",
+            "standUser": "Enrico Pucci",
+            "standImg": "https://static.jojowiki.com/images/thumb/b/bb/latest/20211117220434/Made_in_Heaven_Infobox_Manga.png/400px-Made_in_Heaven_Infobox_Manga.png"
+        },
+        {
+            "standName": "Goo Goo Dolls",
+            "standUser": "SOess",
+            "standImg": "https://static.jojowiki.com/images/thumb/f/f1/latest/20211202072644/Goo_Goo_Dolls_Infobox_Anime.png/400px-Goo_Goo_Dolls_Infobox_Anime.png"
+        },
+        {
+            "standName": "Manhattan Transfer",
+            "standUser": "Johngalli A.",
+            "standImg": "https://static.jojowiki.com/images/c/cd/latest/20191015215749/Manhattan_Transfer_Infobox_Manga.png"
+        },
+        {
+            "standName": "Highway to Hell",
+            "standUser": "Thunder McQueen",
+            "standImg": "https://static.jojowiki.com/images/thumb/f/f3/latest/20211201174538/Highway_to_Hell_Infobox_Anime.png/400px-Highway_to_Hell_Infobox_Anime.png"
+        },
+        {
+            "standName": "Marilyn Manson",
+            "standUser": "Miraschon",
+            "standImg": "https://static.jojowiki.com/images/b/b6/latest/20220102185742/Marilyn_Manson_Infobox_Manga.png"
+        },
+        {
+            "standName": "Jumpin' Jack Flash",
+            "standUser": "Lang Rangler",
+            "standImg": "https://static.jojowiki.com/images/thumb/8/85/latest/20220103222242/Jumpin%27_Jack_Flash_Infobox_Manga.png/400px-Jumpin%27_Jack_Flash_Infobox_Manga.png"
+        },
+        {
+            "standName": "Limp Bizkit",
+            "standUser": "Sports Maxx",
+            "standImg": "https://static.jojowiki.com/images/a/a4/latest/20191015220201/Limp_Bizkit_Infobox_Manga.png"
+        },
+        {
+            "standName": "Survivor",
+            "standUser": "Guccio",
+            "standImg": "https://static.jojowiki.com/images/thumb/6/6a/latest/20191015213958/Survivor_Infobox_Manga.png/400px-Survivor_Infobox_Manga.png"
+        },
+        {
+            "standName": "Planet Waves",
+            "standUser": "Viviano Westwood",
+            "standImg": "https://static.jojowiki.com/images/thumb/5/5b/latest/20201216141308/Planet_Waves_Infobox_Manga.png/400px-Planet_Waves_Infobox_Manga.png"
+        },
+        {
+            "standName": "Dragon's Dream",
+            "standUser": "Kenzou",
+            "standImg": "https://static.jojowiki.com/images/6/6d/latest/20191015213113/Dragon%27s_Dream_Infobox_Manga.png"
+        },
+        {
+            "standName": "Yo-Yo Ma",
+            "standUser": "D an G",
+            "standImg": "https://static.jojowiki.com/images/6/63/latest/20220108060404/Yo-Yo_Ma_Infobox_Manga.png"
+        },
+        {
+            "standName": "Green, Green Grass of Home",
+            "standUser": "The Green Baby",
+            "standImg": "https://static.jojowiki.com/images/thumb/a/a9/latest/20220112060603/G3oH_Infobox_Manga.png/400px-G3oH_Infobox_Manga.png"
+        },
+        {
+            "standName": "Jail House Lock",
+            "standUser": "Miuccia Miuller",
+            "standImg": "https://static.jojowiki.com/images/thumb/1/17/latest/20210525040651/Jail_House_Lock_Infobox_Manga.png/400px-Jail_House_Lock_Infobox_Manga.png"
+        },
+        {
+            "standName": "Bohemian Rhapsody",
+            "standUser": "Ungalo",
+            "standImg": "https://static.jojowiki.com/images/thumb/4/42/latest/20211116164745/Bohemian_Rhapsody_Infobox_Manga.png/400px-Bohemian_Rhapsody_Infobox_Manga.png"
+        },
+        {
+            "standName": "Sky High",
+            "standUser": "Rikiel",
+            "standImg": "https://static.jojowiki.com/images/c/ce/latest/20210312133144/Sky_High_Infobox_Manga.png"
+        },
+        {
+            "standName": "Underworld",
+            "standUser": "Donatello Versus",
+            "standImg": "https://static.jojowiki.com/images/thumb/5/54/latest/20210430161717/Under_World_Infobox_Manga.png/400px-Under_World_Infobox_Manga.png"
+        }
+    ]
+}
